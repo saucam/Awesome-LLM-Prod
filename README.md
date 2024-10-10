@@ -32,8 +32,9 @@ The purpose of this repository is to:
    |Project Name|Support|Tags|Description|
    |------------|-------|----|-----------|
    |[DeepSpeed](https://github.com/microsoft/DeepSpeed)|Microsoft|Training, Inference, Compression|An optimization library that makes distributed training and inference easy
-   |[Megatron-LM](https://github.com/NVIDIA/Megatron-LM)|NVIDIA|Training|GPU optimized techniques for training transformer models at-scale|
    |[Hugging Face Transformers](https://github.com/huggingface/transformers)|Hugging Face|Training, Inference, NLP|State-of-the-art Machine Learning for PyTorch, TensorFlow, and JAX|
+   |[LitGPT](https://github.com/Lightning-AI/litgpt)|Lightning-AI|Training, Deployment, Chatbots|20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale|
+   |[Megatron-LM](https://github.com/NVIDIA/Megatron-LM)|NVIDIA|Training|GPU optimized techniques for training transformer models at-scale|
    |[ONNX Runtime](https://github.com/microsoft/onnxruntime)|Microsoft|Inference, Training-Optimization|Cross-platform, high performance ML inferencing and training accelerator|
    |[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)|NVIDIA|Inference, Optimization|Optimize and deploy LLMs on NVIDIA GPUs|
 
@@ -44,25 +45,29 @@ The purpose of this repository is to:
 
 |Project Name|Support|Tags|Description|
 |------------|-------|----|-----------|
-|[MLflow](https://github.com/mlflow/mlflow)|Databricks|Experiment Tracking, Model Registry, Deployment|An open source platform for the machine learning lifecycle|
-|[Weights & Biases](https://wandb.ai/site)|Weights & Biases|Experiment Tracking, Visualization, Collaboration|MLOps platform for tracking experiments and managing machine learning projects|
-|[Ray](https://github.com/ray-project/ray)|Anyscale|Distributed Computing, Scaling|A unified framework for scaling AI and Python applications|
-|[Seldon Core](https://github.com/SeldonIO/seldon-core)|SeldonIO|Model-Serving, Kubernetes, Deployment|MLOps framework to deploy, monitor, and manage machine learning models in production|
 |[BentoML](https://github.com/bentoml/BentoML)|BentoML|RAG, Model-Serving, API Creation, Deployment|Framework for serving, managing, and deploying machine learning models|
+|[MLflow](https://github.com/mlflow/mlflow)|Databricks|Experiment Tracking, Model Registry, Deployment|An open source platform for the machine learning lifecycle|
+|[Ray](https://github.com/ray-project/ray)|Anyscale|Distributed Computing, Scaling, Inference, Deployment|A unified framework for scaling AI and Python applications|
 |[Triton Inference Server](https://github.com/triton-inference-server/server)|NVIDIA|Model-Serving, Inference, Deployment|Optimized and production-ready model inference server|
+|[vllm](https://github.com/vllm-project/vllm)|vllm-project|Inference, Deployment, Model-Serving|A high-throughput and memory-efficient inference and serving engine for LLMs|
+|[Weights & Biases](https://wandb.ai/site)|Weights & Biases|Experiment Tracking, Visualization, Collaboration|MLOps platform for tracking experiments and managing machine learning projects|
 
 ## 3. **Real-World Applications**
    - App Enablers
    - Prompt optimizations
+   - Structured Output
    - Projects applying LLMs to healthcare, finance, customer service, and other industries.
 
 |Project Name|Support|Tags|Description|
 |------------|-------|----|-----------|
 |[AdalFlow](https://github.com/SylphAI-Inc/AdalFlow)|SylphAI-Inc|RAG, Agents, LLM Eval, Trainers, Optimizers|The library to build & auto-optimize any LLM task|
 |[DSPy](https://github.com/stanfordnlp/dspy)|StanfordNLP|RAG, Prompt-Optimization, Information-Extraction|Framework for programming—not prompting—foundation models|
-|[LangChain](https://github.com/langchain-ai/langchain)|langchain-ai|RAG, Structured-Output, Chatbots, Agents|LangChain is a framework for developing applications powered by LLMs|
+|[Guidance](https://github.com/microsoft/guidance)|Microsoft|Templating, Generation-Control, Structured-Output|A guidance language for controlling LLMs|
 |[Haystack](https://github.com/deepset-ai/haystack)|deepset-ai|RAG, Question-Answering, Information-Retrieval|End-to-end NLP framework for building applications powered by LLMs and Transformer models|
+|[LangChain](https://github.com/langchain-ai/langchain)|langchain-ai|RAG, Structured-Output, Chatbots, Agents|LangChain is a framework for developing applications powered by LLMs|
 |[LlamaIndex](https://github.com/jerryjliu/llama_index)|Community|RAG, Data-Ingestion, Structured-Data|Data Framework for LLM applications to ingest, structure, and access private or domain-specific data|
+|[mem0](https://github.com/mem0ai/mem0)|mem0ai|Memory-Layer|Enhances AI assistants and agents with an intelligent memory layer|
+|[outlines](https://github.com/dottxt-ai/outlines)|dottxt-ai|Structured-Output|Library for Structured Text Generation|
 |[Semantic Kernel](https://github.com/microsoft/semantic-kernel)|Microsoft|AI-Orchestration, Plugins, Connectors, AI-services|Integrate cutting-edge LLM technology quickly and easily into your apps|
 
 ## 4. **Vector Databases and Embeddings**
@@ -73,11 +78,10 @@ The purpose of this repository is to:
 |Project Name|Support|Tags|Description|
 |------------|-------|----|-----------|
 |[Faiss](https://github.com/facebookresearch/faiss)|Facebook Research|Vector-Database, Similarity-Search|A library for efficient similarity search and clustering of dense vectors|
-|[Pinecone](https://www.pinecone.io/)|Pinecone|Vector-Database|Managed vector database for machine learning applications|
-|[Weaviate](https://github.com/weaviate/weaviate)|SeMI Technologies|Vector-Database, GraphQL|Open source vector database that stores both objects and vectors|
 |[Milvus](https://github.com/milvus-io/milvus)|Zilliz|Vector-Database|An open-source vector database built to power embedding similarity search|
+|[Pinecone](https://www.pinecone.io/)|Pinecone|Vector-Database|Managed vector database for machine learning applications|
 |[Qdrant](https://github.com/qdrant/qdrant)|Qdrant|Vector-Database, Rust|Vector similarity search engine and database|
-
+|[Weaviate](https://github.com/weaviate/weaviate)|SeMI Technologies|Vector-Database, GraphQL|Open source vector database that stores both objects and vectors|
 
 ## 5. **Data Generation, Processing and Management**
    - Tools for data generation, cleaning, preprocessing, and augmentation.
