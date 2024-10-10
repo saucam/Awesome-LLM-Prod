@@ -45,7 +45,7 @@ The purpose of this repository is to:
 
 |Project Name|Support|Tags|Description|
 |------------|-------|----|-----------|
-|[BentoML](https://github.com/bentoml/BentoML)|BentoML|RAG, Model-Serving, API Creation, Deployment|Framework for serving, managing, and deploying machine learning models|
+|[BentoML](https://github.com/bentoml/BentoML)|BentoML|RAG, Model-Serving, API, Deployment|Framework for serving, managing, and deploying machine learning models|
 |[MLflow](https://github.com/mlflow/mlflow)|Databricks|Experiment Tracking, Model Registry, Deployment|An open source platform for the machine learning lifecycle|
 |[Ray](https://github.com/ray-project/ray)|Anyscale|Distributed Computing, Scaling, Inference, Deployment|A unified framework for scaling AI and Python applications|
 |[Triton Inference Server](https://github.com/triton-inference-server/server)|NVIDIA|Model-Serving, Inference, Deployment|Optimized and production-ready model inference server|
@@ -91,9 +91,9 @@ The purpose of this repository is to:
 |Project Name|Support|Tags|Description|
 |------------|-------|----|-----------|
 |[Argilla](https://github.com/argilla-io/argilla)|Argilla-IO|Data-Generation, Data-Quality|collaboration tool for AI engineers and domain experts to build high-quality datasets|
-|[DVC (Data Version Control)](https://github.com/iterative/dvc)|Iterative|Data Versioning, ML Pipelines|Open-source version control system for machine learning projects|
-|[Dolt](https://github.com/dolthub/dolt)|DoltHub|Data Version Control, SQL Database|Git for data: Version control system for structured data|
-|[Pachyderm](https://github.com/pachyderm/pachyderm)|Pachyderm|Data Versioning, Data Pipelines|Data-Centric Pipelines and Data Versioning|
+|[DVC (Data Version Control)](https://github.com/iterative/dvc)|Iterative|Data-Versioning, ML-Pipelines|Open-source version control system for machine learning projects|
+|[Dolt](https://github.com/dolthub/dolt)|DoltHub|Data-Versioning, SQL-Database|Git for data: Version control system for structured data|
+|[Pachyderm](https://github.com/pachyderm/pachyderm)|Pachyderm|Data-Versioning, Data-Pipelines|Data-Centric Pipelines and Data Versioning|
 |[Snorkel](https://github.com/snorkel-team/snorkel)|Snorkel AI|Data -Labeling, Weak-Supervision|A system for programmatically building and managing training datasets|
 
 
