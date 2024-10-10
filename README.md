@@ -31,10 +31,12 @@ The purpose of this repository is to:
 
    |Project Name|Support|Tags|Description|
    |------------|-------|----|-----------|
+   |[Axolotl](https://github.com/axolotl-ai-cloud/axolotl)|Community|Training, Fine-Tuning|Tool designed to streamline the fine-tuning of various AI models, offering support for multiple configurations and architectures|
    |[DeepSpeed](https://github.com/microsoft/DeepSpeed)|Microsoft|Training, Inference, Compression|An optimization library that makes distributed training and inference easy
-   |[Hugging Face Transformers](https://github.com/huggingface/transformers)|Hugging Face|Training, Inference, NLP|State-of-the-art Machine Learning for PyTorch, TensorFlow, and JAX|
-   |[LitGPT](https://github.com/Lightning-AI/litgpt)|Lightning-AI|Training, Deployment, Chatbots|20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale|
-   |[Megatron-LM](https://github.com/NVIDIA/Megatron-LM)|NVIDIA|Training|GPU optimized techniques for training transformer models at-scale|
+   |[Hugging Face Transformers](https://github.com/huggingface/transformers)|Hugging Face|Training, Fine-Tuning, Inference, NLP|State-of-the-art Machine Learning for PyTorch, TensorFlow, and JAX|
+   |[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)|Community|Training, Fine-Tuning|Unified Efficient Fine-Tuning of 100+ LLMs|
+   |[LitGPT](https://github.com/Lightning-AI/litgpt)|Lightning-AI|Training, Fine-Tuning, Deployment, Chatbots|20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale|
+   |[Megatron-LM](https://github.com/NVIDIA/Megatron-LM)|NVIDIA|Training, Fine-Tuning|GPU optimized techniques for training transformer models at-scale|
    |[ONNX Runtime](https://github.com/microsoft/onnxruntime)|Microsoft|Inference, Training-Optimization|Cross-platform, high performance ML inferencing and training accelerator|
    |[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)|NVIDIA|Inference, Optimization|Optimize and deploy LLMs on NVIDIA GPUs|
 
