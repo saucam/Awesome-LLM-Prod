@@ -95,6 +95,7 @@ The purpose of this repository is to:
 |[Argilla](https://github.com/argilla-io/argilla)|Argilla-IO|Data-Generation, Data-Quality|collaboration tool for AI engineers and domain experts to build high-quality datasets|
 |[DVC (Data Version Control)](https://github.com/iterative/dvc)|Iterative|Data-Versioning, ML-Pipelines|Open-source version control system for machine learning projects|
 |[Dolt](https://github.com/dolthub/dolt)|DoltHub|Data-Versioning, SQL-Database|Git for data: Version control system for structured data|
+|[NeMo-Curator](https://github.com/NVIDIA/NeMo-Curator)|NVIDIA|Data-Generation, Data-Processing, Scalability|Scalable data pre processing and curation toolkit for LLMs|
 |[Pachyderm](https://github.com/pachyderm/pachyderm)|Pachyderm|Data-Versioning, Data-Pipelines|Data-Centric Pipelines and Data Versioning|
 |[Snorkel](https://github.com/snorkel-team/snorkel)|Snorkel AI|Data -Labeling, Weak-Supervision|A system for programmatically building and managing training datasets|
 
