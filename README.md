@@ -83,6 +83,7 @@ The purpose of this repository is to:
 |[Milvus](https://github.com/milvus-io/milvus)|Zilliz|Vector-Database|An open-source vector database built to power embedding similarity search|
 |[Pinecone](https://www.pinecone.io/)|Pinecone|Vector-Database|Managed vector database for machine learning applications|
 |[Qdrant](https://github.com/qdrant/qdrant)|Qdrant|Vector-Database, Rust|Vector similarity search engine and database|
+|[sentence-transformers](https://github.com/UKPLab/sentence-transformers)|UKPLab|Embeddings, Fine-Tuning, Multilingual|Provides an easy method to compute dense vector representations for sentences, paragraphs, and images|
 |[Weaviate](https://github.com/weaviate/weaviate)|SeMI Technologies|Vector-Database, GraphQL|Open source vector database that stores both objects and vectors|
 
 ## 5. **Data Generation, Processing and Management**
