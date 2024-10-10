@@ -1,18 +1,17 @@
-# Awesome-LLM-Prod
+# 🚀 Awesome-LLM-Prod
 
 A curated collection of open-source **Large Language Model (LLM)** projects that are **production-ready** and can be used for solving real-world problems. This repository focuses on high-performance, scalable LLM solutions across various industries and applications.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Purpose](#purpose)
+## 📚 Table of Contents
+- [🌟 Introduction](#introduction)
+- [🎯 Purpose](#purpose)
 - Awesome Lists
-    - [Large Language Models](#1-large-language-models)
-    - [Production Tools](#2-production-tools)
-    - [Real-World Applications](#3-real-world-applications)
-    - [Vector Databases and Embeddings](#4-vector-databases-and-embeddings)
-    - [Data Generation, Processing and Management](#5-data-generation-processing-and-management)
-
-- [Contribution](#contribution)
+    - [🧠 Large Language Models](#1-large-language-models)
+    - [🛠️ Production Tools](#2-production-tools)
+    - [💼 Real-World Applications](#3-real-world-applications)
+    - [🔍 Vector Databases and Embeddings](#4-vector-databases-and-embeddings)
+    - [🔄 Data Generation, Processing and Management](#5-data-generation-processing-and-management)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -80,7 +79,7 @@ The purpose of this repository is to:
 |[Qdrant](https://github.com/qdrant/qdrant)|Qdrant|Vector-Database, Rust|Vector similarity search engine and database|
 
 
-## 5. **Data generation, processing and Management**
+## 5. **Data Generation, Processing and Management**
    - Tools for data generation, cleaning, preprocessing, and augmentation.
    - Data versioning and lineage tracking solutions.
    - High-quality datasets for training and fine-tuning LLMs in production environments.rew
@@ -96,7 +95,7 @@ The purpose of this repository is to:
 
 ** Note that some of the projects have overlapping categories, but have been classified based on intuitive understanding. If you think a different category better suits a project, please feel free to open a PR.
 
-## Contribution
+## Contributing
 We welcome contributions from the community! If you know of any production-grade LLM project that fits our criteria, please feel free to open a pull request.
 
 ## License
