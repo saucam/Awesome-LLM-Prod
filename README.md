@@ -38,18 +38,21 @@ The purpose of this repository is to:
    |[LitGPT](https://github.com/Lightning-AI/litgpt)|Lightning-AI|Training, Fine-Tuning, Deployment, Chatbots|20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale|
    |[Megatron-LM](https://github.com/NVIDIA/Megatron-LM)|NVIDIA|Training, Fine-Tuning|GPU optimized techniques for training transformer models at-scale|
    |[ONNX Runtime](https://github.com/microsoft/onnxruntime)|Microsoft|Inference, Training-Optimization|Cross-platform, high performance ML inferencing and training accelerator|
-   |[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)|NVIDIA|Inference, Optimization|Optimize and deploy LLMs on NVIDIA GPUs|
+
 
 ## 2. **Production Tools**
-   - Tools for evaluating, testing, monitoring, and scaling LLMs.
+   - Tools for inference, evaluating, testing, monitoring, and scaling LLMs.
    - Deployment solutions for cloud and edge environments.
    - Optimization techniques to reduce memory usage, latency, and costs.
 
 |Project Name|Support|Tags|Description|
 |------------|-------|----|-----------|
 |[BentoML](https://github.com/bentoml/BentoML)|BentoML|RAG, Model-Serving, API, Deployment|Framework for serving, managing, and deploying machine learning models|
+|[LitServe](https://github.com/Lightning-AI/LitServe)|Lightning.AI|Inference, Model-Serving, Deployment|Lightning-fast serving engine for AI models|
 |[MLflow](https://github.com/mlflow/mlflow)|Databricks|Experiment Tracking, Model Registry, Deployment|An open source platform for the machine learning lifecycle|
+|[OpenVINO](https://github.com/openvinotoolkit/openvino)|Intel|Inference, Optimization, Deployment|Toolkit for optimizing and deploying AI models across Intel hardware|
 |[Ray](https://github.com/ray-project/ray)|Anyscale|Distributed Computing, Scaling, Inference, Deployment|A unified framework for scaling AI and Python applications|
+|[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)|NVIDIA|Inference, Optimization|Optimize and deploy LLMs on NVIDIA GPUs|
 |[Triton Inference Server](https://github.com/triton-inference-server/server)|NVIDIA|Model-Serving, Inference, Deployment|Optimized and production-ready model inference server|
 |[vllm](https://github.com/vllm-project/vllm)|vllm-project|Inference, Deployment, Model-Serving|A high-throughput and memory-efficient inference and serving engine for LLMs|
 |[Weights & Biases](https://wandb.ai/site)|Weights & Biases|Experiment Tracking, Visualization, Collaboration|MLOps platform for tracking experiments and managing machine learning projects|
