@@ -74,6 +74,7 @@ The purpose of this repository is to:
 |[mem0](https://github.com/mem0ai/mem0)|mem0ai|Memory-Layer|Enhances AI assistants and agents with an intelligent memory layer|
 |[outlines](https://github.com/dottxt-ai/outlines)|dottxt-ai|Structured-Output|Library for Structured Text Generation|
 |[Semantic Kernel](https://github.com/microsoft/semantic-kernel)|Microsoft|AI-Orchestration, Plugins, Connectors, AI-services|Integrate cutting-edge LLM technology quickly and easily into your apps|
+|[TTS](https://github.com/coqui-ai/TTS)|coqui-ai|Text-to-Speech|a deep learning toolkit for Text-to-Speech, battle-tested in research and production|
 
 ## 4. **Vector Databases and Embeddings**
    - Vector databases for efficient similarity search.
