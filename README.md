@@ -49,6 +49,7 @@ The purpose of this repository is to:
 |------------|-------|----|-----------|
 |[BentoML](https://github.com/bentoml/BentoML)|BentoML|RAG, Model-Serving, API, Deployment|Framework for serving, managing, and deploying machine learning models|
 |[LitServe](https://github.com/Lightning-AI/LitServe)|Lightning.AI|Inference, Model-Serving, Deployment|Lightning-fast serving engine for AI models|
+|[LMDeploy](https://github.com/InternLM/lmdeploy)|InternLM|Inference, Deployment, Optimization|A toolkit for compressing, deploying, and serving LLM with high performance and low latency|
 |[MLflow](https://github.com/mlflow/mlflow)|Databricks|Experiment Tracking, Model Registry, Deployment|An open source platform for the machine learning lifecycle|
 |[OpenVINO](https://github.com/openvinotoolkit/openvino)|Intel|Inference, Optimization, Deployment|Toolkit for optimizing and deploying AI models across Intel hardware|
 |[Ray](https://github.com/ray-project/ray)|Anyscale|Distributed Computing, Scaling, Inference, Deployment|A unified framework for scaling AI and Python applications|
@@ -112,4 +113,3 @@ We welcome contributions from the community! If you know of any production-grade
 
 ## License
 This repository is dedicated to the public domain under the Creative Commons CC0 1.0 Universal license. For more details, see the `LICENSE` file or visit [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/).
-
