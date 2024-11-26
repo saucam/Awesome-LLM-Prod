@@ -62,6 +62,7 @@ The purpose of this repository is to:
    - App Enablers
    - Prompt optimizations
    - Structured Output
+   - Few shot classification
    - Projects applying LLMs to healthcare, finance, customer service, and other industries.
 
 |Project Name|Support|Tags|Description|
@@ -75,6 +76,7 @@ The purpose of this repository is to:
 |[mem0](https://github.com/mem0ai/mem0)|mem0ai|Memory-Layer|Enhances AI assistants and agents with an intelligent memory layer|
 |[outlines](https://github.com/dottxt-ai/outlines)|dottxt-ai|Structured-Output|Library for Structured Text Generation|
 |[Semantic Kernel](https://github.com/microsoft/semantic-kernel)|Microsoft|AI-Orchestration, Plugins, Connectors, AI-services|Integrate cutting-edge LLM technology quickly and easily into your apps|
+|[SetFit](https://github.com/huggingface/setfit)|Hugging Face|Few-Shot, Classification, Fine-Tuning|Efficient few-shot text classification with Sentence Transformers|
 |[TTS](https://github.com/coqui-ai/TTS)|coqui-ai|Text-to-Speech|a deep learning toolkit for Text-to-Speech, battle-tested in research and production|
 
 ## 4. **Vector Databases and Embeddings**
