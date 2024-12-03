@@ -73,6 +73,7 @@ The purpose of this repository is to:
 |[Haystack](https://github.com/deepset-ai/haystack)|deepset-ai|RAG, Question-Answering, Information-Retrieval|End-to-end NLP framework for building applications powered by LLMs and Transformer models|
 |[LangChain](https://github.com/langchain-ai/langchain)|langchain-ai|RAG, Structured-Output, Chatbots, Agents|LangChain is a framework for developing applications powered by LLMs|
 |[LlamaIndex](https://github.com/jerryjliu/llama_index)|Community|RAG, Data-Ingestion, Structured-Data|Data Framework for LLM applications to ingest, structure, and access private or domain-specific data|
+|[Marker](https://github.com/VikParuchuri/marker)|Community|PDF-to-Text, Document-Processing|A tool for converting PDFs to markdown + JSON, enabling document processing and analysis|
 |[mem0](https://github.com/mem0ai/mem0)|mem0ai|Memory-Layer|Enhances AI assistants and agents with an intelligent memory layer|
 |[outlines](https://github.com/dottxt-ai/outlines)|dottxt-ai|Structured-Output|Library for Structured Text Generation|
 |[Semantic Kernel](https://github.com/microsoft/semantic-kernel)|Microsoft|AI-Orchestration, Plugins, Connectors, AI-services|Integrate cutting-edge LLM technology quickly and easily into your apps|
