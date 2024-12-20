@@ -49,6 +49,7 @@ The purpose of this repository is to:
 |------------|-------|----|-----------|
 |[BentoML](https://github.com/bentoml/BentoML)|BentoML|RAG, Model-Serving, API, Deployment|Framework for serving, managing, and deploying machine learning models|
 |[LitServe](https://github.com/Lightning-AI/LitServe)|Lightning.AI|Inference, Model-Serving, Deployment|Lightning-fast serving engine for AI models|
+|[LM-Evaluation-Harness](https://github.com/EleutherAI/lm-evaluation-harness)|EleutherAI|LLM-Evaluation, Benchmarking|A framework for few-shot evaluation of language models with 60+ academic benchmarks|
 |[LMDeploy](https://github.com/InternLM/lmdeploy)|InternLM|Inference, Deployment, Optimization|A toolkit for compressing, deploying, and serving LLM with high performance and low latency|
 |[MLflow](https://github.com/mlflow/mlflow)|Databricks|Experiment Tracking, Model Registry, Deployment|An open source platform for the machine learning lifecycle|
 |[OpenVINO](https://github.com/openvinotoolkit/openvino)|Intel|Inference, Optimization, Deployment|Toolkit for optimizing and deploying AI models across Intel hardware|
