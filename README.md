@@ -55,6 +55,7 @@ The purpose of this repository is to:
 |[OpenVINO](https://github.com/openvinotoolkit/openvino)|Intel|Inference, Optimization, Deployment|Toolkit for optimizing and deploying AI models across Intel hardware|
 |[Ray](https://github.com/ray-project/ray)|Anyscale|Distributed Computing, Scaling, Inference, Deployment|A unified framework for scaling AI and Python applications|
 |[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)|NVIDIA|Inference, Optimization|Optimize and deploy LLMs on NVIDIA GPUs|
+|[text-generation-inference](https://github.com/huggingface/text-generation-inference)|Hugging Face|Inference, Model-Serving, Deployment|A Rust, Python and gRPC server for text generation inference with optimized performance and production features|
 |[Triton Inference Server](https://github.com/triton-inference-server/server)|NVIDIA|Model-Serving, Inference, Deployment|Optimized and production-ready model inference server|
 |[vllm](https://github.com/vllm-project/vllm)|vllm-project|Inference, Deployment, Model-Serving|A high-throughput and memory-efficient inference and serving engine for LLMs|
 |[Weights & Biases](https://wandb.ai/site)|Weights & Biases|Experiment Tracking, Visualization, Collaboration|MLOps platform for tracking experiments and managing machine learning projects|
