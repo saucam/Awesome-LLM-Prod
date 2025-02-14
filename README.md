@@ -54,6 +54,7 @@ The purpose of this repository is to:
 |[MLflow](https://github.com/mlflow/mlflow)|Databricks|Experiment Tracking, Model Registry, Deployment|An open source platform for the machine learning lifecycle|
 |[OpenVINO](https://github.com/openvinotoolkit/openvino)|Intel|Inference, Optimization, Deployment|Toolkit for optimizing and deploying AI models across Intel hardware|
 |[Ray](https://github.com/ray-project/ray)|Anyscale|Distributed Computing, Scaling, Inference, Deployment|A unified framework for scaling AI and Python applications|
+|[SGlang](https://github.com/sgl-project/sglang)|Community|Inference, Model-Serving, Deployment, VLMs|SGLang is a fast serving framework for large language models and vision language models|
 |[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)|NVIDIA|Inference, Optimization|Optimize and deploy LLMs on NVIDIA GPUs|
 |[text-generation-inference](https://github.com/huggingface/text-generation-inference)|Hugging Face|Inference, Model-Serving, Deployment|A Rust, Python and gRPC server for text generation inference with optimized performance and production features|
 |[Triton Inference Server](https://github.com/triton-inference-server/server)|NVIDIA|Model-Serving, Inference, Deployment|Optimized and production-ready model inference server|
