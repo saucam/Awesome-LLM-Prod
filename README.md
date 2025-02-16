@@ -67,6 +67,7 @@ The purpose of this repository is to:
    - Structured Output
    - Few shot classification
    - Projects applying LLMs to healthcare, finance, customer service, and other industries.
+   - Time series Analysis, trend predictions etc.
 
 |Project Name|Support|Tags|Description|
 |------------|-------|----|-----------|
@@ -81,6 +82,7 @@ The purpose of this repository is to:
 |[outlines](https://github.com/dottxt-ai/outlines)|dottxt-ai|Structured-Output|Library for Structured Text Generation|
 |[Semantic Kernel](https://github.com/microsoft/semantic-kernel)|Microsoft|AI-Orchestration, Plugins, Connectors, AI-services|Integrate cutting-edge LLM technology quickly and easily into your apps|
 |[SetFit](https://github.com/huggingface/setfit)|Hugging Face|Few-Shot, Classification, Fine-Tuning|Efficient few-shot text classification with Sentence Transformers|
+|[Time-Series-Library](https://github.com/thuml/Time-Series-Library)|THUML|Time-Series, Forecasting, Analysis, Classification|A comprehensive library for deep time series models covering forecasting, imputation, anomaly detection, and classification|
 |[TTS](https://github.com/coqui-ai/TTS)|coqui-ai|Text-to-Speech|a deep learning toolkit for Text-to-Speech, battle-tested in research and production|
 |[Turftopic](https://github.com/x-tabdeveloping/turftopic)|x-tabdeveloping|Topic-Modeling, Text-Classification, Sentence-Transformers|Zero-shot topic modeling and text classification using LLMs|
 
