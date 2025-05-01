@@ -38,6 +38,7 @@ The purpose of this repository is to:
    |[LitGPT](https://github.com/Lightning-AI/litgpt)|Lightning-AI|Training, Fine-Tuning, Deployment, Chatbots|20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale|
    |[Megatron-LM](https://github.com/NVIDIA/Megatron-LM)|NVIDIA|Training, Fine-Tuning|GPU optimized techniques for training transformer models at-scale|
    |[ONNX Runtime](https://github.com/microsoft/onnxruntime)|Microsoft|Inference, Training-Optimization|Cross-platform, high performance ML inferencing and training accelerator|
+   |[Pylate](https://github.com/lightonai/pylate)|LightOn|Late Interaction Models Training & Retrieval|
 
 
 ## 2. **Production Tools**
