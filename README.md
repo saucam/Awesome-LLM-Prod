@@ -28,6 +28,7 @@ The purpose of this repository is to:
 ## 1. **Large Language Models**
    - Production-ready LLM projects and implementations.
    - Fine-tuning LLMs for specific tasks.
+   - Post-training frameworks.
 
    |Project Name|Support|Tags|Description|
    |------------|-------|----|-----------|
@@ -37,6 +38,7 @@ The purpose of this repository is to:
    |[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)|Community|Training, Fine-Tuning|Unified Efficient Fine-Tuning of 100+ LLMs|
    |[LitGPT](https://github.com/Lightning-AI/litgpt)|Lightning-AI|Training, Fine-Tuning, Deployment, Chatbots|20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale|
    |[Megatron-LM](https://github.com/NVIDIA/Megatron-LM)|NVIDIA|Training, Fine-Tuning|GPU optimized techniques for training transformer models at-scale|
+   |[NeMo-RL](https://github.com/NVIDIA/NeMo-RL)|NVIDIA|Post-Training, Fine-Tuning, GRPO, DPO|Scalable and efficient post-training library for RL|
    |[ONNX Runtime](https://github.com/microsoft/onnxruntime)|Microsoft|Inference, Training-Optimization|Cross-platform, high performance ML inferencing and training accelerator|
    |[Pylate](https://github.com/lightonai/pylate)|LightOn|Late Interaction Models Training & Retrieval|
 
