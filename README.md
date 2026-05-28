@@ -50,6 +50,7 @@ The purpose of this repository is to:
 
 |Project Name|Support|Tags|Description|
 |------------|-------|----|-----------|
+|[ai-evaluation](https://github.com/future-agi/ai-evaluation)|Future AGI|LLM-Evaluation, Guardrails, Testing|LLM evaluation framework with 50+ metrics, LLM-as-Judge, and guardrail scanners (jailbreak, PII, injection)|
 |[BentoML](https://github.com/bentoml/BentoML)|BentoML|RAG, Model-Serving, API, Deployment|Framework for serving, managing, and deploying machine learning models|
 |[LitServe](https://github.com/Lightning-AI/LitServe)|Lightning.AI|Inference, Model-Serving, Deployment|Lightning-fast serving engine for AI models|
 |[LM-Evaluation-Harness](https://github.com/EleutherAI/lm-evaluation-harness)|EleutherAI|LLM-Evaluation, Benchmarking|A framework for few-shot evaluation of language models with 60+ academic benchmarks|
@@ -60,6 +61,7 @@ The purpose of this repository is to:
 |[SGlang](https://github.com/sgl-project/sglang)|Community|Inference, Model-Serving, Deployment, VLMs|SGLang is a fast serving framework for large language models and vision language models|
 |[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)|NVIDIA|Inference, Optimization|Optimize and deploy LLMs on NVIDIA GPUs|
 |[text-generation-inference](https://github.com/huggingface/text-generation-inference)|Hugging Face|Inference, Model-Serving, Deployment|A Rust, Python and gRPC server for text generation inference with optimized performance and production features|
+|[traceAI](https://github.com/future-agi/traceAI)|Future AGI|Observability, Tracing, OpenTelemetry|OpenTelemetry-native tracing for LLM and agent apps with 50+ framework integrations|
 |[Triton Inference Server](https://github.com/triton-inference-server/server)|NVIDIA|Model-Serving, Inference, Deployment|Optimized and production-ready model inference server|
 |[vllm](https://github.com/vllm-project/vllm)|vllm-project|Inference, Deployment, Model-Serving|A high-throughput and memory-efficient inference and serving engine for LLMs|
 |[Weights & Biases](https://wandb.ai/site)|Weights & Biases|Experiment Tracking, Visualization, Collaboration|MLOps platform for tracking experiments and managing machine learning projects|
