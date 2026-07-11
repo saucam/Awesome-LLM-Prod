@@ -2,9 +2,7 @@
 
 > A curated collection of open-source Large Language Model (LLM) projects that are production-ready and can be used for solving real-world problems.
 
-With the rise of LLMs in various domains, there is a growing need for solutions that are ready for deployment in production environments.
-This list curates open-source, production-grade LLM repositories that are tested and proven to scale, bridging the gap between research prototypes and production-grade projects.
-Whether you're deploying a large model for NLP tasks or integrating AI into a customer-facing product, these are the tools and frameworks for real-world scenarios.
+With the rise of LLMs in various domains, there is a growing need for solutions that are ready for deployment in production environments. This list curates open-source, production-grade LLM repositories that are tested and proven to scale, bridging the gap between research prototypes and production-grade projects. Whether you're deploying a large model for NLP tasks or integrating AI into a customer-facing product, these are the tools and frameworks for real-world scenarios.
 
 ## Contents
 
@@ -137,6 +135,4 @@ Tools for data generation, cleaning, labeling, versioning, and lineage tracking 
 | [NeMo-Curator](https://github.com/NVIDIA-NeMo/Curator)         | NVIDIA       | Data-Generation, Data-Processing, Scalability | Scalable data pre processing and curation toolkit for LLMs                                    |
 ## Contributing
 
-Contributions are welcome!
-Please read the [contribution guidelines](contributing.md) first: entries must be open source, actively maintained, and proven in production.
-Some projects fit several categories and are classified by primary use, so feel free to open a PR if you think a different category better suits a project.
+Contributions are welcome! Please read the [contribution guidelines](contributing.md) first: entries must be open source, actively maintained, and proven in production. Some projects fit several categories and are classified by primary use, so feel free to open a PR if you think a different category better suits a project.
