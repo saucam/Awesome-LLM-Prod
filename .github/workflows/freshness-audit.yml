@@ -1,0 +1,31 @@
+name: Freshness audit
+
+on:
+  schedule:
+    # Monthly, 1st at 07:00 UTC
+    - cron: '0 7 1 * *'
+  workflow_dispatch:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Audit entries against the GitHub API
+        run: python3 scripts/freshness_audit.py --output report.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Open issue if problems found
+        if: ${{ hashFiles('report.md') != '' }}
+        run: |
+          gh issue create \
+            --repo "$GITHUB_REPOSITORY" \
+            --title "Freshness audit $(date -u +%Y-%m): stale or moved entries" \
+            --body-file report.md
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
