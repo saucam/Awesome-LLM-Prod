@@ -35,13 +35,13 @@ The purpose of this repository is to:
    |Project Name|Support|Tags|Description|
    |------------|-------|----|-----------|
    |[Axolotl](https://github.com/axolotl-ai-cloud/axolotl)|Community|Training, Fine-Tuning|Tool designed to streamline the fine-tuning of various AI models, offering support for multiple configurations and architectures|
-   |[DeepSpeed](https://github.com/microsoft/DeepSpeed)|Microsoft|Training, Inference, Compression|An optimization library that makes distributed training and inference easy|
+   |[DeepSpeed](https://github.com/deepspeedai/DeepSpeed)|Microsoft|Training, Inference, Compression|An optimization library that makes distributed training and inference easy|
    |[Hugging Face Transformers](https://github.com/huggingface/transformers)|Hugging Face|Training, Fine-Tuning, Inference, NLP|State-of-the-art Machine Learning for PyTorch, TensorFlow, and JAX|
    |[LitGPT](https://github.com/Lightning-AI/litgpt)|Lightning-AI|Training, Fine-Tuning, Deployment, Chatbots|20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale|
-   |[LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)|Community|Training, Fine-Tuning|Unified Efficient Fine-Tuning of 100+ LLMs|
+   |[LLaMA-Factory](https://github.com/hiyouga/LlamaFactory)|Community|Training, Fine-Tuning|Unified Efficient Fine-Tuning of 100+ LLMs|
    |[Megatron-LM](https://github.com/NVIDIA/Megatron-LM)|NVIDIA|Training, Fine-Tuning|GPU optimized techniques for training transformer models at-scale|
    |[ms-swift](https://github.com/modelscope/ms-swift)|ModelScope (Alibaba)|Fine-Tuning, PEFT, Multimodal|Framework for fine-tuning (CPT/SFT/DPO/GRPO) 600+ LLMs and 300+ multimodal models|
-   |[NeMo-RL](https://github.com/NVIDIA/NeMo-RL)|NVIDIA|Post-Training, Fine-Tuning, GRPO, DPO|Scalable and efficient post-training library for RL|
+   |[NeMo-RL](https://github.com/NVIDIA-NeMo/RL)|NVIDIA|Post-Training, Fine-Tuning, GRPO, DPO|Scalable and efficient post-training library for RL|
    |[ONNX Runtime](https://github.com/microsoft/onnxruntime)|Microsoft|Inference, Training-Optimization|Cross-platform, high performance ML inferencing and training accelerator|
    |[PEFT](https://github.com/huggingface/peft)|Hugging Face|PEFT, LoRA, Fine-Tuning|State-of-the-art parameter-efficient fine-tuning; the adapter layer under most production LoRA workflows|
    |[PyLate](https://github.com/lightonai/pylate)|LightOn|Late-Interaction, Retrieval, Fine-Tuning|Flexible training and retrieval for late-interaction (ColBERT-style) models, built on Sentence Transformers|
@@ -114,7 +114,7 @@ The purpose of this repository is to:
 |[Crawl4AI](https://github.com/unclecode/crawl4ai)|Community|Web-Crawling, Scraping, RAG|LLM-friendly web crawler and scraper producing clean Markdown for RAG and agent pipelines|
 |[Docling](https://github.com/docling-project/docling)|LF AI & Data (IBM)|Document-Processing, PDF-to-Text, RAG|Converts PDF, DOCX, PPTX and images into AI-ready structured output with layout and table understanding|
 |[DSPy](https://github.com/stanfordnlp/dspy)|StanfordNLP|RAG, Prompt-Optimization, Information-Extraction|Framework for programming—not prompting—foundation models|
-|[Guidance](https://github.com/microsoft/guidance)|Microsoft|Templating, Generation-Control, Structured-Output|A guidance language for controlling LLMs|
+|[Guidance](https://github.com/guidance-ai/guidance)|Microsoft|Templating, Generation-Control, Structured-Output|A guidance language for controlling LLMs|
 |[Haystack](https://github.com/deepset-ai/haystack)|deepset-ai|RAG, Question-Answering, Information-Retrieval|End-to-end NLP framework for building applications powered by LLMs and Transformer models|
 |[Instructor](https://github.com/567-labs/instructor)|567 Labs|Structured-Output, Extraction, Validation|Structured LLM outputs with Pydantic validation, retries, and support for 15+ providers|
 |[LangChain](https://github.com/langchain-ai/langchain)|langchain-ai|RAG, Structured-Output, Chatbots, Agents|LangChain is a framework for developing applications powered by LLMs|
@@ -141,7 +141,7 @@ The purpose of this repository is to:
 |[pgvector](https://github.com/pgvector/pgvector)|pgvector|Vector-Database, Postgres|Vector similarity search as a Postgres extension with exact and ANN (HNSW/IVFFlat) indexes|
 |[Pinecone](https://www.pinecone.io/)|Pinecone|Vector-Database|Managed vector database for machine learning applications|
 |[Qdrant](https://github.com/qdrant/qdrant)|Qdrant|Vector-Database, Rust|Vector similarity search engine and database|
-|[sentence-transformers](https://github.com/UKPLab/sentence-transformers)|UKPLab|Embeddings, Fine-Tuning, Multilingual|Provides an easy method to compute dense vector representations for sentences, paragraphs, and images|
+|[sentence-transformers](https://github.com/huggingface/sentence-transformers)|Hugging Face|Embeddings, Fine-Tuning, Multilingual|Provides an easy method to compute dense vector representations for sentences, paragraphs, and images|
 |[text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference)|Hugging Face|Embeddings, Inference, Model-Serving|High-throughput, low-latency server for embedding, reranker, and classifier models|
 |[Vespa](https://github.com/vespa-engine/vespa)|Vespa.ai|Vector-Search, Hybrid-Search|Big-data serving engine combining vector, lexical, and structured search with ML inference at scale|
 |[Weaviate](https://github.com/weaviate/weaviate)|SeMI Technologies|Vector-Database, GraphQL|Open source vector database that stores both objects and vectors|
@@ -156,9 +156,9 @@ The purpose of this repository is to:
 |[Argilla](https://github.com/argilla-io/argilla)|Argilla-IO|Data-Generation, Data-Quality|collaboration tool for AI engineers and domain experts to build high-quality datasets|
 |[DataTrove](https://github.com/huggingface/datatrove)|Hugging Face|Data-Processing, Deduplication, Pipelines|Platform-agnostic pipelines to process, filter, and dedup web-scale text data (built FineWeb)|
 |[Dolt](https://github.com/dolthub/dolt)|DoltHub|Data-Versioning, SQL-Database|Git for data: Version control system for structured data|
-|[DVC (Data Version Control)](https://github.com/iterative/dvc)|Iterative|Data-Versioning, ML-Pipelines|Open-source version control system for machine learning projects|
+|[DVC (Data Version Control)](https://github.com/treeverse/dvc)|Treeverse|Data-Versioning, ML-Pipelines|Open-source version control system for machine learning projects|
 |[Label Studio](https://github.com/HumanSignal/label-studio)|HumanSignal|Data-Labeling, Annotation, RLHF|Multi-type data labeling and annotation platform with standardized output format|
-|[NeMo-Curator](https://github.com/NVIDIA/NeMo-Curator)|NVIDIA|Data-Generation, Data-Processing, Scalability|Scalable data pre processing and curation toolkit for LLMs|
+|[NeMo-Curator](https://github.com/NVIDIA-NeMo/Curator)|NVIDIA|Data-Generation, Data-Processing, Scalability|Scalable data pre processing and curation toolkit for LLMs|
 |[Omnigraph](https://github.com/ModernRelay/omnigraph)|ModernRelay|Data-Versioning, Graph-Database, Agent-Memory|Typed property graph database with Git-style workflows, S3-native storage, and typed queries|
 |[Pachyderm](https://github.com/pachyderm/pachyderm)|Pachyderm|Data-Versioning, Data-Pipelines|Data-Centric Pipelines and Data Versioning|
 |[Snorkel](https://github.com/snorkel-team/snorkel)|Snorkel AI|Data -Labeling, Weak-Supervision|A system for programmatically building and managing training datasets|
